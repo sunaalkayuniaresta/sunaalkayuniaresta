@@ -20,7 +20,7 @@
 
 <!-- - 🔭 I’m currently working on **[RIMM Sustainability](https://rimm.io)** -->
 
-- 🌱 I enjoy exploring **Front End Web, Back End Web, and Product Management.**
+- 🌱 **I am eager to have the opportunity to increase my experience and broaden my horizons insight, especially in the Information and Technology.**
 
 - 👯 I’m a **Team Player**
 
@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **sunaalkayuni@gmail.com**
 
-- ⚡ Fun fact; **I love writing poem.**
+- ⚡ Fun fact **I love writing poem.**
 
 **𝗜'𝗺 𝗮𝗹𝘀𝗼 𝗼𝗻...**
 
