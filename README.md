@@ -9,11 +9,10 @@
       </animated-image>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suna Alkayuni Aresta ✨</h1>
-<h3 align="center">I'm a Fresh Graduate from Informatics Engineering who is passionate to learn about Website Development</h3>
+<h1 align="center">Hi, I'm Suna Alkayuni Aresta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Front%20End%20Web%20Developer;Back%20End%20Developer&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Love%20to%20Learn%20New%20Things;Especially%20in%20IT%20Field&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 ## 🙋‍♂️ About Me
